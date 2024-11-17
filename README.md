@@ -21,8 +21,9 @@ This repository includes implementations of the following numerical methods:
 ```plaintext
 MATH317-NumericalMethods/
 ├── bisection.py          # Implementation of the Bisection Method
+├── testBisection.py      # Implementation of Bisection Method Test
 ├── horner.py             # Implementation of Horner's Method
 ├── complete_horner.py    # Implementation of Complete Horner's Method
 ├── newton.py             # Implementation of Newton's Method
-├── polynomial_ops.py     # Basic polynomial operations
+├── polynomial.py         # Basic polynomial operations
 └── README.md             # This documentation
