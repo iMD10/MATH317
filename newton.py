@@ -1,25 +1,5 @@
 def newton_method(f, f_, x, nmax, epsilon, delta):
     
-    """
-    Newton-Raphson method for finding roots of a function.
-    
-    Parameters:
-    f : callable
-        The function for which the root is to be found.
-    f_: callable
-        The derivative of the function.
-    x : float
-        The initial guess for the root.
-    nmax : int
-        The maximum number of iterations.
-    epsilon : float
-        The tolerance for convergence.
-    delta : float
-        The tolerance for small derivatives.
-
-    Returns:
-    None
-    """
     fx = f(x)
     print(0, x, fx)  # Initial output
 
