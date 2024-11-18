@@ -8,3 +8,6 @@ def compute_array(n, r, a):
             a[j] = a[j] + r * a[j + 1]
     
     return a
+
+result = compute_array(3, 0.5, [1, 2, 3, 4])
+print(result)
