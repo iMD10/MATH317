@@ -1,4 +1,5 @@
 # MATH317: Numerical Methods in Python
+![image](https://i.pinimg.com/originals/f2/07/a8/f207a8f3cda30d3fbbc2383e6a433bf8.gif)
 
 Welcome to the **MATH317: Numerical Methods** repository! This project contains Python implementations of various numerical methods covered in the MATH317 course. Each method is implemented based on the pseudocodes provided during lectures, with clear examples and explanations.
 
